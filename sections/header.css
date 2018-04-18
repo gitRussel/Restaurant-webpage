@@ -39,29 +39,23 @@
     font-size: 0.875rem;
     display: inline-block;
     vertical-align: top;
-    padding: 0 10px 0 10px;
+    padding: 0 7px 0 0;
     text-decoration: none;
     text-transform: uppercase;
     color: #a09484;
     transition: 0.3s;
-   letter-spacing: 0px;
+    letter-spacing: 0px;
  }
  .nav__link:hover, .nav__link--active{
     color: #c6404b;
  }
- /*
  .nav__link:after{
-    content: '';
+    content: '\2807';
     display: inline-block;
     vertical-align: middle;
-    border-radius: 50%;
-    width: 3px;
-    height: 3px;
+    font-size: 8px;
     margin-left: 13px;
-    background: black;
-    text-align: center;
  }
  .nav__link:last-child:after{
     display: none;
  }
-*/
