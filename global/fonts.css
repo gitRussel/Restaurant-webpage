@@ -1,66 +1,66 @@
 @font-face{
     font-family: "arial";
-    src: url("./arial.ttf") format("truetype");
+    src: url("../fonts/arial.ttf") format("truetype");
     font-style: normal;
     font-weight: normal;
 }
 @font-face{
     font-family: "arialbd";
-    src: url("./arialbd.ttf") format("truetype");
+    src: url("../fonts/arialbd.ttf") format("truetype");
     font-style: normal;
     font-weight: normal;
 }
 @font-face{
     font-family: "tahoma";
-    src: url("./tahoma.ttf") format("truetype");
+    src: url("../fonts/tahoma.ttf") format("truetype");
     font-style: normal;
     font-weight: normal;
 }
 @font-face{
     font-family: "tahomabd";
-    src: url("./tahomabd.ttf") format("truetype");
+    src: url("../fonts/tahomabd.ttf") format("truetype");
     font-style: normal;
     font-weight: normal;
 }
 @font-face{
     font-family: "trebuc";
-    src: url("./trebuc.ttf") format("truetype");
+    src: url("../fonts/trebuc.ttf") format("truetype");
     font-style: normal;
     font-weight: normal;
 }
 @font-face{
     font-family: "trebucbd";
-    src: url("./trebucbd.ttf") format("truetype");
+    src: url("../fonts/trebucbd.ttf") format("truetype");
     font-style: normal;
     font-weight: normal;
 }
 @font-face{
     font-family: "MissLeGatees";
-    src: url("./Miss Le Gatees-Regular.ttf") format("truetype");
+    src: url("../fonts/Miss Le Gatees-Regular.ttf") format("truetype");
     font-style: normal;
     font-weight: normal;
 }
 @font-face{
     font-family: "DINMittelschriftStd";
-    src: url("./DINMittelschriftStd.otf");
+    src: url("../fonts/DINMittelschriftStd.otf");
     font-style: normal;
     font-weight: normal;
 }
 @font-face{
     font-family: "MinionPro-Capt";
-    src: url("./MinionPro-Capt.otf");
+    src: url("../fonts/MinionPro-Capt.otf");
     font-style: normal;
     font-weight: normal;
 }
 @font-face{
     font-family: "MinionPro-Semibold";
-    src: url("./MinionPro-Semibold.otf");
+    src: url("../fonts/MinionPro-Semibold.otf");
     font-style: normal;
     font-weight: normal;
 }
 @font-face{
     font-family: "MinionPro-SemiboldCn";
-    src: url("./MinionPro-SemiboldCn.otf");
+    src: url("../fonts/MinionPro-SemiboldCn.otf");
     font-style: normal;
     font-weight: normal;
 }

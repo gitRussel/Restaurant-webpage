@@ -1,5 +1,5 @@
-@import "./fonts.css";
-@import "./base.css";
+@import "../global/fonts.css";
+@import "../global/base.css";
 
 .conteiner{
     max-width: 719px;
