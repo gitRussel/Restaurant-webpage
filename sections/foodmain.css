@@ -1,0 +1,63 @@
+.food-main{
+    margin-top: 13px;
+}
+.food-main__list{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+}
+.food-main__item{
+    height: 313px;
+}
+.food-main__item.one{
+    background-color: #af3842;
+}
+.food-main__item.two{
+    background-color: #800e3e;
+}
+.food-main__item.three{
+    background-color: #2f1d35;
+}
+.food-main__image{
+    padding-top: 7px;
+}
+.food-main__picture{
+    height: 282px;
+    width: 100%;    
+}
+.food-main__text{
+    color: #ffff;
+    z-index: 1;
+    margin-top: -60px;
+    margin-bottom: 9px;
+    text-align: left;
+    padding-top: 10px;
+    padding-left: 8px;
+    text-transform: uppercase;
+}
+.food-main__title{
+    font-weight: normal;
+    font-family: "MinionPro-Capt";
+    font-size: 1.625rem;
+    margin: 0px;
+}
+.food-main_description{
+    font-weight: normal;
+    font-family: "DINMittelschriftStd";
+    font-size: 0.625rem;
+    margin: 0px;
+    margin-top: -5px;
+}
+.food-main__button{
+    font-family: "MinionPro-SemiboldCn";
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    text-align: left;
+    padding: 10px 0px 10px 8px;
+    text-decoration: none;
+    color: #eee7d4;
+}
