@@ -18,5 +18,8 @@
   "homepage": "https://github.com/gitRussel/restaurant-webpage#readme",
   "devDependencies": {
     "browser-sync": "^2.23.6"
+  },
+  "dependencies": {
+    "font-awesome": "^4.7.0"
   }
 }

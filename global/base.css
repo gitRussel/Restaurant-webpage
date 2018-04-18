@@ -10,3 +10,19 @@ html{
 *, *:before, *:after {
     box-sizing: inherit;
 }
+
+ul, ol{
+    list-style-type: none;
+}
+
+/*Выравнивание контента по центру экрана*/
+.conteiner{
+    max-width: 719px;
+    margin: auto;
+}
+
+.clearfix::after {
+    content: "";
+    display: table;
+    clear: both;
+}
