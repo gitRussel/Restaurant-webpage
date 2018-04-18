@@ -1,0 +1,18 @@
+.content{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    height: 100%;
+}
+.content-left-row{
+    width: 240px;
+    flex-grow: 0;
+    background-color: yellow;
+}
+.content-right-row{
+    flex-grow: 1;
+    background-color: blue;
+}
+.left-row__item{
+    border-bottom: 1px dashed black;
+}
