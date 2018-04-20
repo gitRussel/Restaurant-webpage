@@ -11,11 +11,13 @@
     height: 60px;
 }
 #logo .ff-MissLeGatees{
+    font-family: "MissLeGatees";
     font-size: 3rem;
     float: left;
     margin: 0;
 }
 #logo .ff-MinionPro-SemiboldCn{
+    font-family: "MinionPro-SemiboldCn";
     font-size: 1.125rem;
     color: #c6404b;
     float: left;    
@@ -23,6 +25,7 @@
 
 }
 #logo .ff-MinionPro-Semibold{
+    font-family: "MinionPro-Semibold";
     font-size: 0.875rem;
     color: #a09484;
     float: left;
@@ -33,9 +36,9 @@
  .nav{
     display: inline-block;
     vertical-align: top;
-  
  }
  .nav__link{
+    font-family: "MinionPro-Semibold";  
     font-size: 0.875rem;
     display: inline-block;
     vertical-align: top;

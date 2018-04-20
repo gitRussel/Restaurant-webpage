@@ -1,0 +1,109 @@
+.left-row__text{
+    font-weight: normal;
+    text-align: left;
+    text-transform: uppercase;
+    margin-top: 22px;
+    margin-left: 8px;
+}
+.left-row__title{
+    font-family: "MinionPro-Capt";
+    font-size: 1.25rem;
+    color: #c6404b;
+    vertical-align: top;    
+    margin: 0;    
+}
+.left-row__description{
+    font-family: "DINMittelschriftStd";
+    font-size: 0.625rem;
+    color: #959595;
+    margin: -4px 0 0 0;
+}
+
+/*List styles*/
+.left-row__list{
+    padding: 0px;
+    margin-bottom: 0px;
+}
+.left-row__item{
+    margin-left: 8px;
+    padding: 10px 0;
+    display: inline-flex;
+    border-bottom: 1px dashed black;
+}
+.left-row__item:first-child{
+    padding-top: 0px;
+}
+.left-row-item__text{
+    padding-left: 8px;
+    font-weight: normal;
+    text-align: left;
+    line-height: 16px;
+}
+.left-row-item__title{
+    font-family: "tahomabd";
+    font-size: 0.75rem;
+    color: #c6404b;
+    margin: 0;
+}
+.left-row-item__subtitle{
+    font-family: "tahoma";
+    color: #848484;
+    font-size: 0.625rem;
+    text-decoration-line: underline;
+    margin: 0;
+}
+.left-row-item__description{
+    font-family: "tahoma";
+    color: #848484;
+    font-size: 0.625rem;
+    margin: 0;
+}
+
+.left-row__readmore{
+    font-family: "tahoma";
+    font-size: 0.625rem;
+    color: #c6404b;
+    text-align: right;
+    margin-right: 20px;
+    margin-top: 10px;
+}
+
+/*French block*/
+.left-row__french{
+    margin-top: 20px;
+    margin-bottom: 30px;
+    background-image: url(../images/food-french.jpg);
+    background-repeat: no-repeat;
+}
+.left-row-french__text{
+    padding-left: 8px;
+    padding-top: 10px;
+    font-weight: normal;
+    text-align: left;
+    text-transform: uppercase;
+}
+.left-row-french__french{
+    font-family: "MinionPro-Capt";
+    font-size: 1rem;
+    color: #35213c;
+    margin: 0px;
+    max-width: 239px;
+    max-height: 90px;
+}
+.left-row-french__nights{
+    font-family: "MinionPro-Capt";
+    font-size: 1.5rem;
+    color: #c6404b;
+    margin: 0px;
+    margin-top: -7px;
+}
+.left-row-french__description{
+    font-family: "DINMittelschriftStd";
+    font-size: 0.625rem;
+    color: #959595;
+    margin: 0px;
+    margin-top: -5px;
+}
+.left-row-french__readmore{
+    color: #35213c;
+}
