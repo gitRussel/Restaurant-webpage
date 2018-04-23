@@ -11,3 +11,6 @@
 .right-row__letest-events .left-row-item__title span{
     color: black;
 }
+.right-row__letest-events .left-row__text{
+    margin-top: 10px;
+}

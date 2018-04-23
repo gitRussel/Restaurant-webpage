@@ -1,5 +1,5 @@
 .right-row__client-testimonials{
-    float: right;
+    float: left;
     width: 238px;
 }
 .right-row__client-testimonials .left-row__item{
@@ -16,4 +16,7 @@
 }
 .right-row__client-testimonials .left-row__title{
     color: #35213c;
+}
+.right-row__client-testimonials .left-row__text{
+    margin-top: 10px;
 }
