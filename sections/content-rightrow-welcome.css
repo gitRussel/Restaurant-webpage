@@ -1,0 +1,68 @@
+.right-row-welcome__mtext{
+    font-weight: normal;
+    font-family: "MinionPro-Capt";
+    text-transform: uppercase;    
+    margin-top: 23px;
+    margin-left: 6px;
+}
+.right-row-welcome__title{
+    display: inline;
+    font-size: 2.125rem;
+    color: #911046;
+    margin: 0;        
+}
+.right-row-welcome__subtitle{
+    font-size: 1rem;
+    color: #9c9c9c;
+    margin: 0;    
+}
+.right-row-welcome__image{
+    position: absolute;
+    display: inline-block;
+    margin-top: 10px;
+}
+.right-row-welcome__description{
+    font-family: "arialbd";
+    font-size: 0.75rem;
+    color: #7b7368;
+    position: relative;
+    width: 350px;
+    height: 50px;
+    padding: 11px 19px 13px 7px;
+    vertical-align: middle;
+    margin-left: 122px;
+    margin-top: 20px;
+    border-bottom: 1px dashed black;
+    border-top: 1px dashed black;
+}
+.right-row-welcome__text{
+    position: relative;
+    font-family: "tahoma";
+    font-size: 0.625rem;
+    color: #848484;
+    line-height: 16px; 
+    width: 290px;
+    margin-left: 170px;
+    margin-top: 20px;
+}
+.right-row-welcome__list{
+    position: relative;
+    padding: 0px;
+    margin: 0px;
+    width: 270px;
+    margin-top: 11px;
+    margin-left: 173px;
+}
+.right-row-welcome__list a{
+    font-family: "tahoma";
+    font-size: 0.625rem;
+    white-space: nowrap;
+    color: #c6404b;
+    text-decoration: none;
+  }
+.right-row-welcome__list a::before{
+    content: '\1F896';
+    width: 7px;
+    height: 7px;
+    margin-right: 10px;
+}
