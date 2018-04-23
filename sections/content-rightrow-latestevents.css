@@ -1,0 +1,13 @@
+.right-row__letest-events{
+   width: 240px;
+   float: left;
+}
+.right-row__letest-events .left-row__title{
+    color: #35213c;
+}
+.right-row__letest-events .left-row__item:last-child{
+    border: none;
+}
+.right-row__letest-events .left-row-item__title span{
+    color: black;
+}
