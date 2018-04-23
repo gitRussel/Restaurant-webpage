@@ -1,9 +1,0 @@
-@import "../fonts/fonts.css";
-@import "./base.css";
-
-.conteiner{
-    max-width: 719px;
-    margin: auto;
-}
-
-@import "../sections/header.css";
