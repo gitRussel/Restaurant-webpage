@@ -1,0 +1,19 @@
+.right-row__client-testimonials{
+    float: right;
+    width: 238px;
+}
+.right-row__client-testimonials .left-row__item{
+    display: block;
+}
+.right-row__client-testimonials .left-row-item__image{
+    float: left;
+}
+.right-row__client-testimonials .left-row-item__text{
+    padding-left: 0px;
+}
+.right-row__client-testimonials .left-row-item__subtitle{
+    margin-top: 16px;
+}
+.right-row__client-testimonials .left-row__title{
+    color: #35213c;
+}
