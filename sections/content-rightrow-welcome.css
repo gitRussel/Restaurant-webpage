@@ -26,8 +26,8 @@
     font-size: 0.75rem;
     color: #7b7368;
     position: relative;
-    width: 350px;
-    height: 50px;
+    max-width: 350px;
+    min-height: 50px;
     padding: 11px 19px 13px 7px;
     vertical-align: middle;
     margin-left: 122px;
@@ -41,7 +41,7 @@
     font-size: 0.625rem;
     color: #848484;
     line-height: 16px; 
-    width: 290px;
+    max-width: 290px;
     margin-left: 170px;
     margin-top: 20px;
 }
@@ -49,7 +49,7 @@
     position: relative;
     padding: 0px;
     margin: 0px;
-    width: 270px;
+    max-width: 270px;
     margin-top: 11px;
     margin-left: 173px;
 }
@@ -65,4 +65,32 @@
     width: 7px;
     height: 7px;
     margin-right: 10px;
+}
+
+@media (max-width:480px){
+    .right-row__welcome{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .right-row-welcome__mtext{
+        margin-left: 0px;
+    }
+    .right-row-welcome__subtitle{
+        display: block;
+    }
+    .right-row-welcome__image{
+        display: none;
+    }
+    .right-row-welcome__description{
+        margin-left: 0px;
+        padding: 10px;
+    }
+    .right-row-welcome__text{
+        margin-left: 0px;
+    }
+    .right-row-welcome__list{
+        float: unset;
+        margin-left: 0px;
+    }
 }

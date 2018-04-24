@@ -14,3 +14,14 @@
 .content-right-row{
     flex-grow: 1;
 }
+
+@media (max-width:718px){
+    .content{
+        justify-content: center;
+        align-items: center;
+        background: linear-gradient(to bottom, #d9d9d9, white 6%);
+    }
+    .content-right-row{
+        flex-grow: 0;
+    }
+}

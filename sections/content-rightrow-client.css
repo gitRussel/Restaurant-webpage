@@ -20,3 +20,11 @@
 .right-row__client-testimonials .left-row__text{
     margin-top: 10px;
 }
+
+@media (max-width:480px){
+    .right-row__client-testimonials{
+        float: unset;
+        width: unset;
+        margin: 10px 20px;
+    }
+}

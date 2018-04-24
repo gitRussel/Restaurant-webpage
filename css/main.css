@@ -1,8 +1,6 @@
 @import "../global/fonts.css";
 @import "../global/base.css";
 
-@import "../node_modules/font-awesome/css/font-awesome.css";
-
 @import "../sections/header.css";
 @import "../sections/foodmain.css";
 @import "../sections/content.css";

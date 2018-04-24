@@ -14,3 +14,18 @@
 .right-row__letest-events .left-row__text{
     margin-top: 10px;
 }
+
+@media (max-width:480px){
+    .right-row__letest-events{
+        float: unset;
+        width: unset;
+        text-align: center;
+    }
+    .left-row__title{
+        margin-left: 0px;
+        text-align: center;
+    }
+    .left-row__text{
+        text-align: center;
+    }
+}

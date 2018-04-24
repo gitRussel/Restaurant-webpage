@@ -62,3 +62,31 @@
  .nav__link:last-child:after{
     display: none;
  }
+ @media (max-width:730px) and (min-width:660px){
+     #logo{
+        transition: 0.3s;
+        margin-left:10px;
+     }
+     .header .nav{
+        transition: 0.3s;
+        margin-right: 10px;
+     }
+ }
+ @media (max-width:660px){
+    .header {
+      flex-direction: column;
+      justify-content: space-around;
+      align-items: center;
+     }
+ }
+ @media (max-width:425px){
+    .nav__link{
+        font-size: 0.7rem;
+        margin-top: 10px;
+    }
+ }
+ @media (max-width:320px){
+    .nav__link{
+        font-size: 0.6rem;
+    }
+ }
