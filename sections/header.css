@@ -80,13 +80,13 @@
      }
  }
  @media (max-width:425px){
-    .nav__link{
+   .header .nav__link{
         font-size: 0.7rem;
         margin-top: 10px;
     }
  }
  @media (max-width:320px){
-    .nav__link{
+    .header .nav__link{
         font-size: 0.6rem;
     }
  }
